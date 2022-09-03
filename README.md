@@ -1,6 +1,6 @@
 # To-Do List
 
-A to-do list made with HTML, CSS and Express.js. Made this list to experiment and learn about EJS - templates and layouts, and how node modules work.
+A to-do list made with HTML, CSS and Express.js. I made this list to experiment and learn about EJS - templates and layouts, and how node modules work.
 
 ## How to run in your local server
 Clone this repository and save it locally. 
